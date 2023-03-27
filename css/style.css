@@ -1,0 +1,17 @@
+﻿.bg-cover {
+    background-size: cover !important;
+}
+body {
+    min-height: 100vh;
+}
+
+nav .navbar-nav li a{
+  color: grey !important;
+}
+nav .navbar-nav li a:hover{
+  color: white !important;
+}
+
+
+
+
